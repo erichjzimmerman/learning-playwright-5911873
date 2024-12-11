@@ -6,7 +6,7 @@ This is the repository for the LinkedIn Learning course `learning-playwright`. T
 
 ## Course Description
 
-It’s no surprise that Playwright has joined the ranks of other top-rated open-source automation tools. Playwright’s comprehensive feature set allows testers and developers to quickly create new test automation projects without having to combine multiple libraries and other tools. Whether you’re a manual tester, a quality assurance specialist, a software developer, or a seasoned automation engineer, this course offers hands-on, practical experience with using some of the most important features of Playwright. Join instructor Butch Mayhew as he takes you through the essentials and prepares you to start writing, running, analyzing, and debugging your first test.
+It is no surprise that Playwright has joined the ranks of other top-rated open-source automation tools. Playwright’s comprehensive feature set allows testers and developers to quickly create new test automation projects without having to combine multiple libraries and other tools. Whether you’re a manual tester, a quality assurance specialist, a software developer, or a seasoned automation engineer, this course offers hands-on, practical experience with using some of the most important features of Playwright. Join instructor Butch Mayhew as he takes you through the essentials and prepares you to start writing, running, analyzing, and debugging your first test.
 
 _See the readme file in the main branch for updated instructions and information._
 
@@ -46,7 +46,6 @@ Butch Mayhew
 
 Playwright Ambassador
 
-                        
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/butch-mayhew?u=104).
 
 [0]: # "Replace these placeholder URLs with actual course URLs"
